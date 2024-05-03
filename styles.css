@@ -8,5 +8,20 @@ main {
     padding:20px;
     border: solid black 2px;
     width:336px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+/* img {
+    border-radius: 15px;
+} */
+
+.category {
+    padding: 5px 10px 5px 10px;
+    background-color:hsl(47, 88%, 63%);
+    border-radius: 5px;
+    width: 60px;
+    text-align:center;
+    margin: 10px 0px 10px 0px;
 
 }
