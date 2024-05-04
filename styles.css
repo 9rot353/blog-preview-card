@@ -19,6 +19,7 @@ main {
     width:336px;
     background-color: white;
     border-radius: 15px;
+    
 }
 
 img {
@@ -62,6 +63,10 @@ footer {
     bottom: 1px;
     text-align: center;
     margin:auto;
+}
+
+h3 {
+   color: hsl(0, 0%, 7%)
 }
 
 p {
