@@ -36,6 +36,7 @@ img {
     padding: 5px 8px 5px 8px;
     text-align:center;
     margin: 10px 0px 10px 0px;
+    font-size: 15px;
 
 }
 
@@ -79,11 +80,16 @@ h3:hover {
 
 p {
     font-size: 16px;
+
 }
 
 .description {
-    color: hsl(0, 0%, 50%)
+    color: hsl(0, 0%, 50%);
+    margin-top:4px;
+    padding: 10px 0px 10px 0px;
 }
+
+
 
 
 @media (max-width: 375px) {
