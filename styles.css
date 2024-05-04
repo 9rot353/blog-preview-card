@@ -1,8 +1,13 @@
 body {
     background-color:hsl(47, 88%, 63%);
+
 }
 
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital@0;1&display=swap');
+
 main {
+    font-family:"Figtree", Arial, Helvetica, sans-serif;
     margin: 0;
     position: absolute;
     top: 50%;
@@ -57,4 +62,8 @@ footer {
     bottom: 1px;
     text-align: center;
     margin:auto;
+}
+
+p {
+    font-size: 16px;
 }
