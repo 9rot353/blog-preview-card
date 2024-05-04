@@ -25,3 +25,19 @@ img {
     margin: 10px 0px 10px 0px;
 
 }
+
+.creator {
+    display: flexbox;
+    flex-direction: column;
+}
+
+.creator img {
+    width: 30px;
+    height: 30px;
+}
+.creator p {
+   display: inline-block;
+   position: relative;
+   bottom: 9px;
+   left: 5px;
+}
