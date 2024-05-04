@@ -67,3 +67,7 @@ footer {
 p {
     font-size: 16px;
 }
+
+.description {
+    color: hsl(0, 0%, 50%)
+}
