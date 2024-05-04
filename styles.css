@@ -27,10 +27,11 @@ img {
 }
 
 .category {
-    padding: 5px 10px 5px 10px;
+
     background-color:hsl(47, 88%, 63%);
     border-radius: 5px;
-    width: 60px;
+    width: fit-content;
+    padding: 5px 8px 5px 8px;
     text-align:center;
     margin: 10px 0px 10px 0px;
 
